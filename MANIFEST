@@ -9,5 +9,4 @@ Makefile.PL
 README
 lib/Module/Install/TestML.pm
 lib/Module/Install/TestML.pod
-t/000-compile-modules.t
 t/release-pod-syntax.t
